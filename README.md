@@ -2,7 +2,7 @@
 <h3 align="center">MCA Student | Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=00BFFF&width=500&lines=Passionate+MCA+Student;Web+%2B+AI+Developer;Learning+Every+Day+🚀;BBuilding+Cool+Projects+with+Code+%26+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=00BFFF&width=500&lines=Passionate+MCA+Student;Web+%2B+AI+Developer;Learning+Every+Day+🚀;Building+Cool+Projects+with+Code+%26+AI" />
 </p>
 
 ---
